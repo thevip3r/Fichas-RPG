@@ -1,0 +1,47 @@
+body {
+    background-color: #373636;
+    max-width: 767px;
+
+}
+
+h1 {
+    color: #15aaff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 95px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+div {
+    text-align: center;
+}
+
+button#login {
+    margin-top: 100px;
+    width: 300px;
+    height: 80px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 35px;
+    color: #f8f7f3;
+    background-color: #15aaff;
+}
+
+button#register {
+    margin-top: 30px;
+    width: 300px;
+    height: 80px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 35px;
+    color: #f8f7f3;
+    background-color: #15aaff;
+}
+
+footer {
+    margin-top: 43px;
+    color: #f8f7f3;
+    text-align: center;
+    font-style: italic;
+}
