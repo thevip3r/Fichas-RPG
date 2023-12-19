@@ -1,7 +1,7 @@
 function entrar() {
-    window.location.href = `login.html`
+    window.location.href = "../Pagina-Login/login.html";
 }
 
 function registrar() {
-    window.location.href = `registro.html`
+    window.location.href = "../Pagina-Registro/registro.html";
 }

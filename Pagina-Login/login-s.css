@@ -1,0 +1,60 @@
+body {
+    background-color: #373636;
+    max-width: 767px;
+}
+
+button#voltar {
+    background-color: #373636;
+}
+
+h1 {
+    color: #15aaff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 95px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+div {
+    text-align: center;
+}
+
+div#user {
+    font-weight: 500;
+    font-size: 25px;
+    color: #15aaff;
+}
+
+div#senha01 {
+    font-weight: 500;
+    font-size: 25px;
+    color: #15aaff;
+}
+
+input {
+    margin-top: -15px;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 35px;
+    background-color: #f8f7f3;
+}
+
+button#confirm {
+    margin-top: 65px;
+    width: 400px;
+    height: 55px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 35px;
+    color: #f8f7f3;
+    background-color: #15aaff;
+}
+
+footer {
+    margin-top: 43px;
+    color: #f8f7f3;
+    text-align: center;
+    font-style: italic;
+}
